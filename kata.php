@@ -8,4 +8,3 @@
     $jumlah_kata=str_word_count($kata);
     echo "Jumlah Kata = $jumlah_kata Kata";
 ?>
-</p>
